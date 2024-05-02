@@ -8,4 +8,7 @@ Sendo assim este é um aplicativo cuja principal função é denunciar discretam
 A segurança das informações pessoais das crianças é uma prioridade fundamental no desenvolvimento do aplicativo, e medidas de proteção de dados são implementadas rigorosamente para garantir a privacidade e a confidencialidade das informações dos usuários. Espera-se que os testes preliminares do aplicativo demonstrem uma resposta positiva das crianças, que se mostrarão engajadas tanto com as atividades educacionais quanto com a funcionalidade de denúncia de assédio. Além disso, feedbacks de especialistas em segurança infantil e educação foram incorporados para aprimorar ainda mais a eficácia e a usabilidade do aplicativo.
 
 Em conclusão, o aplicativo desenvolvido representa uma ferramenta valiosa para proteger as crianças contra o assédio online e offline, capacitando-as a tomar medidas proativas para garantir sua segurança, ao mesmo tempo em que promove o aprendizado de matemática de maneira divertida e acessível. Futuras iterações do aplicativo continuarão a incorporar feedbacks e aprimoramentos para atender às necessidades em constante evolução das crianças no mundo digital.
+
+A seguir temos o Mapa Mental do Aplicativo
+
 ![Blue Illustrative Mind Map Brainstorm](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/7718adeb-54d8-4b3d-8f9f-12a37e6cae35)
