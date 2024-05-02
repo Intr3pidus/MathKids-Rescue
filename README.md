@@ -9,6 +9,10 @@ A segurança das informações pessoais das crianças é uma prioridade fundamen
 
 Em conclusão, o aplicativo desenvolvido representa uma ferramenta valiosa para proteger as crianças contra o assédio online e offline, capacitando-as a tomar medidas proativas para garantir sua segurança, ao mesmo tempo em que promove o aprendizado de matemática de maneira divertida e acessível. Futuras iterações do aplicativo continuarão a incorporar feedbacks e aprimoramentos para atender às necessidades em constante evolução das crianças no mundo digital.
 
-A seguir temos o Mapa Mental do Aplicativo
+A seguir temos o Mapa Mental  e o protocolo de Média Fidelidade do Aplicativo:
 
-![Blue Illustrative Mind Map Brainstorm](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/7718adeb-54d8-4b3d-8f9f-12a37e6cae35)
+![Blue Illustrative Mind Map Brainstorm](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/4a1b1778-3638-41bd-8956-c1fb10f3848d)
+
+![WhatsApp Image 2024-04-27 at 15 29 37](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/6ffd14ce-2316-4434-9e98-9ff7d19d7e83)
+
+
