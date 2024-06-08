@@ -19,5 +19,8 @@ A seguir temos o protocolo de Média Fidelidade do Aplicativo:
 
 A seguir temos a logo do Aplicativo:
 
-![math kid’s rescue](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/049e4c67-8053-456f-b7b8-9bac3e1576ae)
+
+![1051x1051](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/038e1b07-3311-4b88-80fc-4cdd20673a87)
+
+![323x588 pxl](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/b8006362-0c88-4128-a3bc-00cb36d7fcbc)
 
