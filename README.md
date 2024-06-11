@@ -23,5 +23,8 @@ A seguir temos a logo do Aplicativo:
 ![323x588 pxl](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/b8006362-0c88-4128-a3bc-00cb36d7fcbc)
 
 
+![588X323](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/dec3ddb6-225f-4d2d-95ab-cd0c0ae9bb23)
+
+
 ![1051x1051](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/038e1b07-3311-4b88-80fc-4cdd20673a87)
 
