@@ -29,3 +29,7 @@ A seguir temos a logo do Aplicativo:
 ![323x588 pxl](https://github.com/Intr3pidus/MathKidsRescue/assets/168660907/b8006362-0c88-4128-a3bc-00cb36d7fcbc)
 
 
+A seguir temos o video de apresentação do aplicativo:
+
+https://www.canva.com/design/DAGI-LMgUnQ/lRqoux-QhwPeN-KzyRiBnA/view?utm_content=DAGI-LMgUnQ&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
